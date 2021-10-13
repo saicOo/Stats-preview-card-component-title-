@@ -3,3 +3,7 @@
 ![Design preview](./design/desktop-preview.jpg)
 
 ## [Stats Preview Card](https://saicoo.github.io/Stats-preview-card-component-title-/)
+
+- Onepage Website
+- HTML
+- CSS

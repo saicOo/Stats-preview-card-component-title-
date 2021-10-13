@@ -2,4 +2,4 @@
 
 ![Design preview](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+#[Stats Preview Card](https://saicoo.github.io/Stats-preview-card-component-title-/)
